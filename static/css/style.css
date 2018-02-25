@@ -34,3 +34,24 @@ body {
 	position: relative;
 	display: block;
 }
+
+.reiko {
+	position: fixed;
+	top: 4%;
+	left: 6%;
+	transform: scale(0.5);
+}
+
+.coty-s4s {
+	position: fixed;
+	top: 16%;
+	left: 14%;
+	transform: scale(0.5);
+}
+
+.monkeys {
+	position: fixed;
+	top: 10%;
+	left: 26%;
+	transform: scale(0.5);
+}
