@@ -1,0 +1,36 @@
+body {
+	height: 9001%;
+	background-image: url("../image/coty-craft.png");
+}
+
+.winrar {
+	position: fixed;
+	bottom: 0;
+	left: 0;
+}
+
+.cancer {
+	position: fixed;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+}
+
+.cancer a {
+	font-size: 69pt;
+	font-family: "Comic Sans MS", cursive, sans-serif;
+	color: red;
+	transform: rotate(20deg);
+}
+
+.COTY {
+	position: fixed;
+	bottom: 0;
+	right: 0;
+}
+
+.COTY img {
+	position: relative;
+	display: block;
+}
